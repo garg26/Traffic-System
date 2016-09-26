@@ -1,8 +1,8 @@
-# ITMS
+# Traffic System
 
-# What is ITMS ?
-  
-ITMS is intelligent traffic management system.it tells you about how efficently you can manage traffic without putting extra efforts.
+
+Traffic System  is intelligent traffic management system. It tells you about how efficently you can manage traffic without putting extra efforts.
+
 
 ## Contributor :-
 #####              Kartikeya garg (Software part)
